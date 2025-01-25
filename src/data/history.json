@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Developer& Graphic Designer",
+    "organisation": "Center for Digital and Distance Education, MoEYS",
+    "startDate": "Jun, 2021",
+    "endDate": "Oct, 2024",
+    "experiences": [
+      "Restructured and uploaded material into duraseksa.gov.kh, a government educational website", 
+      "Designed posters and organized events/competitions to promote digital and STEM education in Cambodia",
+      "Led a video competition project themed Digital Education in Cambodia",
+      "Built an attendance Telegram bot for tracking staff's daily attendence",
+      "Automated a poster-sharing tool for Facebook using Python.",
+      "Automated and restrutured data for library.duraseksa.gov.kh, an online library initiative.",
+      "Supported intern teams with UX/UI design for their projects.",
+      "Supported other departments in automating tasks."
+    ],
+    "imageSrc": "history/cdde.png",
+    "link": "https://www.facebook.com/cdde.org"
+  },
+
+  {
+    "role": "Backend Dev& Graphic Designer",
+    "organisation": "Polymer Invoice",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed an API to extract data from KHQR codes uploaded by customers.", 
+      "Built APIs for billing systems, enabling users to generate invoices efficiently.", 
+      "Design posters to promote polymer services and financial literacy awarness"],
+    "imageSrc": "history/polymer.png",
+    "link": "https://www.polymerinvoice.com/"
+  },
+  {
+    "role": "Co-Founder",
+    "organisation": "Wander in Tech",
+    "startDate": "Jun, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Hosted the WiT Web Development Camp (2022), trained 50+ trainees",
+      "Organized the Digital Literacy Online Workshop (2023), raising awareness of technological advancements",
+      "Designed the WIT Data Science Camp curriculum (2024) and served as both instructor and mentor to 50+ trainees."
+    ],
+    "imageSrc": "history/wit.png",
+    "link": "https://www.facebook.com/wanderintech"
+  }
+]

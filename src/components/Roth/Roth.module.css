@@ -1,0 +1,115 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  z-index: 1;
+  background: #0b2447;
+  padding: 80px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 100;
+  margin-top: 10px;
+  margin-bottom: 33px;
+  font-family: var(--font-roboto);
+  border-radius: 8px;
+  letter-spacing: 2px;
+}
+
+.highlight {
+  font-size: 120px;
+  font-weight: 1000;
+  color: #ee6c4d;
+}
+
+.description {
+  font-size: 20px;
+  font-family: var(--font-roboto);
+  margin-bottom: 50px;
+}
+
+.socialLinks {
+  display: flex;
+  gap: 20px;
+}
+
+.iconLink img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.iconLink img:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+
+.contactBtn {
+  color: white;
+  margin-top: 40px;
+  background-color: #ee6c4d;
+  text-decoration: none; /* Remove underline */
+  padding: 10px 15px; 
+  border-radius: 4px; 
+  font-size: 18px; 
+  font-weight: bold; /* Optional: Make it bold */
+  text-align: center;
+  display: inline-block; 
+  transition: background-color 0.3s ease;
+}
+
+.contactBtn:hover {
+  background-color: #d35442
+}
+
+
+.rothImg {
+  width: 40%;
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  border-radius:50%;
+  box-shadow: 3px 3px 3px #e78267;}
+
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 10px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
+}
+
+
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .content {
+    align-items: center;
+  }
+
+  .rothImg {
+    width: 80%;
+
+  }
+}
