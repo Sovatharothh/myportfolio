@@ -1,4 +1,4 @@
-# My Portfolio  
+# Roth Portfolio  
 
 This portfolio website built using **React** and **Vite**. This portfolio showcases my professional background, projects, experiences, exchange programs, and contact information.  
 

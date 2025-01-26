@@ -1,26 +1,30 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Attendance Telegram Bot",
+    "imageSrc": "Project/bot.png",
+    "description": "This is a project built to track staff daily attendance.",
+    "skills": ["Express", "Node"],
+    "source": "https://github.com/Sovatharothh/Telegram_bot.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Streamlit Chatbot Analytics",
+    "imageSrc": "Project/streamlit.png",
+    "description": "This is a project allow user to interact with their data for analyzing",
+    "skills": ["Python", "Streamlit", "PandaAI"],
+    "source": "https://github.com/Sovatharothh/Streamlit-Chatbot-Analytics.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "AUPP Library Chatbot",
+    "imageSrc": "Project/login-page.png",
+    "description": "This is a project made to allow students ask anything about AUPP Library.",
+    "skills": ["React"],
+    "source": "https://github.com/Sovatharothh/library_chatbot.git"
+  },
+  {
+    "title": "Roth's Portfolio",
+    "imageSrc": "Project/portfolio.png",
+    "description": "This is a project showcase all about me and life experiences.",
+    "skills": ["React", "Node", "MongoDB"],
+    "source": "https://github.com/Sovatharothh/myportfolio.git"
   }
 ]
