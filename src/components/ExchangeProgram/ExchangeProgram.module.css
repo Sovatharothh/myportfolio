@@ -1,0 +1,15 @@
+.container {
+    color: var(--color-text);
+    background-color: wheat;
+    width: 100%;
+    margin-left: 5%;
+
+  }
+  
+  .title {
+    color: var(--color-text);
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+  }

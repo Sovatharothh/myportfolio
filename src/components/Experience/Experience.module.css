@@ -74,12 +74,13 @@
   align-items: flex-start; 
   background-color:#ee6c4d;;
   transition: background-color 0.4s ease; 
-  box-shadow: 3px 5px 3px rgba(77, 76, 76, 70);
-
-
-
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.5);
 }
 
+.historyItem:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.5);
+}
 
 
 .historyItem img {
