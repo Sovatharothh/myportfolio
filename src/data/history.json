@@ -25,7 +25,6 @@
     "endDate": "Present",
     "experiences": [
       "Developed an API to extract data from KHQR codes uploaded by customers.", 
-      "Built APIs for billing systems, enabling users to generate invoices efficiently.", 
       "Design posters to promote polymer services and financial literacy awarness"],
     "imageSrc": "history/polymer.png",
     "link": "https://www.polymerinvoice.com/"

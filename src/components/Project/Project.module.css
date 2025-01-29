@@ -2,6 +2,7 @@
 
 .container {
   margin-top: 80px;
+  /* margin-bottom: 50px; */
   color: var(--color-text);
   background-color: wheat ;
 }
@@ -9,6 +10,7 @@
 .title {
   font-size: 50px;
   font-weight: 700;
+  padding-top: 30px;
   margin-left: 5%;
   color: var(--color-bg);
   letter-spacing: 1.75px;
@@ -17,6 +19,7 @@
 
 .projects {
   margin-top: 30px;
+  padding-bottom: 60px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

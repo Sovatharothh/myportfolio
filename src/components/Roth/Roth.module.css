@@ -107,6 +107,11 @@
   .content {
     align-items: center;
   }
+  
+  .highlight {
+    font-size: 60px;
+    font-weight: 1000;
+  }
 
   .rothImg {
     width: 80%;

@@ -24,7 +24,7 @@
     "title": "Roth's Portfolio",
     "imageSrc": "Project/portfolio.png",
     "description": "This is a project showcase all about me and life experiences.",
-    "skills": ["React", "Node", "MongoDB"],
+    "skills": ["React"],
     "source": "https://github.com/Sovatharothh/myportfolio.git"
   }
 ]

@@ -1,15 +1,139 @@
-.container {
-    color: var(--color-text);
-    background-color: wheat;
-    width: 100%;
-    margin-left: 5%;
+@import "../../vars.css";
 
+.exchangeprogramContainer {
+  background-color: #f9f9f9;
+  padding: 5%;
+  position: relative;
+}
+
+.title {
+  color: #04152d;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.contents {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Exchange program list layout */
+.exchangeprogram {
+  list-style: none;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+
+.exchangeprogramItem {
+  flex: 0 0 auto;
+  width: 30%;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.exchangeprogramItem:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Image styles */
+.exchangeprogramItem img {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+.exchangeprogramItem:hover img {
+  opacity: 0.8;
+}
+
+/* Details section */
+.exchangeprogramItemDetails {
+  padding: 15px;
+  text-align: left;
+}
+
+.exchangeprogramItemDetails h3 {
+  margin: 10px 0;
+}
+
+.exchangeprogramItemDetails p {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 5px 0;
+}
+
+.exchangeprogramItemDetails ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.exchangeprogramItemDetails ul li {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+/* Carousel buttons */
+.preBtn, .nxtBtn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.preBtn {
+  left: 10px;
+}
+
+.nxtBtn {
+  right: 10px;
+}
+
+/* Arrow image size */
+.arrow {
+  width: 24px; 
+  height: 24px; 
+}
+
+/* Product container */
+.productContainer {
+  padding: 0 10vw;
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.productContainer::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (max-width: 830px) {
+  .exchangeprogramContainer {
+    flex-direction: row;
   }
-  
-  .title {
-    color: var(--color-text);
-    font-size: 50px;
-    font-weight: 700;
-    letter-spacing: 1.75px;
-    text-transform: uppercase;
+
+  .exchangeprogramItem {
+    width: 35%;
   }
+}
