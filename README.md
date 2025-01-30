@@ -41,3 +41,38 @@ Follow these steps to set up the project locally:
    ```
 
 
+## Firebase Deployment
+
+This project is deployed using Firebase Hosting. Follow these steps to deploy the project to Firebase:
+
+
+## Installation and Setup  
+Follow these steps to set up Firebase Deployment:  
+
+1. If you haven't installed the Firebase CLI yet, run:  
+   ```bash
+   npm install -g firebase-tools
+    ```
+
+
+2. Login to Firebase:
+
+   ```bash
+   firebase login   
+   ```
+
+3. Initialize Firebase:
+   ```bash
+    firebase init
+   ```
+
+4. Build the Project:
+   ```bash
+   npm run build
+   ```
+
+5. Deploy to Firebase:
+   ```bash
+   firebase deploy
+   ```
+
