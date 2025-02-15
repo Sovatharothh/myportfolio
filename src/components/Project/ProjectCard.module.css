@@ -84,12 +84,10 @@
   color: var(--color-text);
   font-size: 17px;
   margin-bottom: 20px;
-  border-radius: 4px; /* Adjusted to match the card's design */
+  border-radius: 4px; 
   background-color: #ee6c4d;
-  padding: 6px 98px; /* Reduced padding for a better fit */
+  padding: 5px 28px; /* Reduced padding for a better fit */
   text-align: center;
   display: inline-block;
   transition: background-color 0.3s ease;
 }
-
-

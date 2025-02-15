@@ -14,13 +14,21 @@ export const About = () => {
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
+        <li className={styles.aboutItem}>
+            <img src={getImageUrl("About/datascience.png")} alt="datascience icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Data Science</h3>
+              <p>
+              I have experience in applying Machine Learning, Data Analysis, Visualization, and Predictive Modeling to extract insights and build data-driven solutions using Python, Pandas, NumPy, Scikit-learn, and Matplotlib.</p>
+            </div>
+          </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("About/backend.png")} alt="backend icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
               I have experiences in developing fast and optimised back-end systems
-              and APIs by using NodeJS and FastAPI
+              and APIs by using NodeJS and FastAPI.
               </p>
             </div>
           </li>
@@ -30,7 +38,7 @@ export const About = () => {
               <h3>Frontend Development</h3>
               <p>
                 I have experiences in building responsive
-                and optimized sites by using ReactJS
+                and optimized sites by using ReactJS.
               </p>
             </div>
           </li>
@@ -39,8 +47,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Design</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have designed multiple landing pages and developed scalable design systems for consistent user experiences.
               </p>
             </div>
           </li>

@@ -11,8 +11,10 @@ export const Roth = () => {
           <p>Hi, This is</p>
           <b className={styles.highlight}>ROTH TT</b>
         </h1>
+
+        <h2>Backend dev | Data Scientist | ICT@AUPP</h2>
         <p className={styles.description}>
-          I am a newbie Backend developer using NodeJS and currently I am exploring new frameworks like FastAPI. 
+          I am a newbie Backend developer and Data Scientist.I am passionate about learning new technologies and building cool projects.
           I also enjoy doing web scraping and analyzing data for fun TT.
         </p>
         <div className={styles.socialLinks}>

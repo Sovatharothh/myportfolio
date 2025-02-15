@@ -53,7 +53,7 @@
 }
 
 .skill p {
-  font-size: 15px;
+  font-size: 0.9rem;
   font-family: var(--font-roboto);
   font-weight: 300;
 }
@@ -92,12 +92,12 @@
 }
 
 .historyItemDetails h3 {
-  font-size: 22px;
+  font-size: 1.2rem;
   font-weight: 500;
 }
 
 .historyItemDetails p {
-  font-size: 15px;
+  font-size: 0.9rem;
   font-style: italic;
   font-weight: 300;
 }
@@ -105,7 +105,7 @@
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
-  font-size: 17px;
+  font-size: 0.9rem;
   list-style-type: disc;
   margin-left: 17px;
 }
@@ -114,7 +114,7 @@
   .content {
     flex-direction: column;
     align-items: center;
-    gap: 34px;
+    gap: 50px;
   }
 
   .skills {
