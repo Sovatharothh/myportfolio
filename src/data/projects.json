@@ -1,11 +1,11 @@
 [
   {
-    "title": "Attendance Telegram Bot",
-    "imageSrc": "Project/bot.png",
-    "description": "This is a project built to track staff daily attendance.",
-    "skills": ["Express", "Node"],
-    "source": "https://github.com/Sovatharothh/Telegram_bot.git",
-    "demo": "https://t.me/cdde_attendance_bot"
+    "title": "Loan Approval Prediction",
+    "imageSrc": "Project/loan.png",
+    "description": "This model helps banks make informed loan approval decisions.",
+    "skills": ["LR", "Decision Tree", "Random Forest", "KNN"],
+    "source": "https://github.com/Sovatharothh/LoanApprovalPrediction.git",
+    "demo": "https://github.com/Sovatharothh/LoanApprovalPrediction.git"
   },
 
   {
@@ -16,6 +16,45 @@
     "source": "https://github.com/Sovatharothh/Streamlit-Chatbot-Analytics.git",
     "demo": "https://auppsearchchatbot.streamlit.app/"
   },
+
+  {
+    "title": "Customer Segementation",
+    "imageSrc": "Project/customer.png",
+    "description": "This model identifies customer behavior to improve sales and marketing.",
+    "skills": ["Clustering","K-Means"],
+    "source": "https://github.com/Sovatharothh/CustomerSegmentation.git",
+    "demo": "https://github.com/Sovatharothh/CustomerSegmentation.git"
+  },
+
+
+  {
+    "title": "Streamlit Student Dashboard",
+    "imageSrc": "Project/dashboard.png",
+    "description": "This project provides a dashboard for analyzing student performance across various subjects.",
+    "skills": ["Streamlit", "Python"],
+    "source": "https://github.com/Sovatharothh/StreamlitDashboard.git",
+    "demo": "https://auppsearchdashboard.streamlit.app/"
+  },
+  {
+    "title": "Attendance Telegram Bot",
+    "imageSrc": "Project/bot.png",
+    "description": "This is a project built to track staff daily attendance.",
+    "skills": ["Express", "Node", "Render", "TelegramBot API"],
+    "source": "https://github.com/Sovatharothh/Telegram_bot.git",
+    "demo": "https://t.me/cdde_attendance_bot"
+  },
+
+
+  {
+    "title": "Roth's Portfolio",
+    "imageSrc": "Project/portfolio.png",
+    "description": "This is a project showcase all about me and life experiences.",
+    "skills": ["React", "Firebase"],
+    "source": "https://github.com/Sovatharothh/myportfolio.git",
+    "demo": "https://sovatharothel.web.app/"
+
+  },
+
   {
     "title": "AUPP Library Chatbot",
     "imageSrc": "Project/login-page.png",
@@ -25,14 +64,6 @@
     "demo": "https://github.com/Sovatharothh/library_chatbot.git"
 
 
-  },
-  {
-    "title": "Roth's Portfolio",
-    "imageSrc": "Project/portfolio.png",
-    "description": "This is a project showcase all about me and life experiences.",
-    "skills": ["React", "Firebase"],
-    "source": "https://github.com/Sovatharothh/myportfolio.git",
-    "demo": "https://sovatharothel.web.app/"
-
   }
+
 ]
