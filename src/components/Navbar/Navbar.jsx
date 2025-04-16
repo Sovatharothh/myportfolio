@@ -5,6 +5,12 @@ import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [activeLink, setActiveLink] = useState("#about");
+
+  const handleMenuClick = (href) => {
+    setActiveLink(href);
+    setMenuOpen(false);
+  };
 
   return (
     <nav className={styles.navbar}>
@@ -23,23 +29,52 @@ export const Navbar = () => {
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul
-          className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
-          onClick={() => setMenuOpen(false)}
+          className={`${styles.menuItems} ${menuOpen ? styles.menuOpen : ""}`}
         >
           <li>
-            <a href="#about">About</a>
+            <a
+              href="#about"
+              className={activeLink === "#about" ? styles.active : ""}
+              onClick={() => handleMenuClick("#about")}
+            >
+              About
+            </a>
           </li>
           <li>
-            <a href="#experience">Experiences</a>
+            <a
+              href="#experience"
+              className={activeLink === "#experience" ? styles.active : ""}
+              onClick={() => handleMenuClick("#experience")}
+            >
+              Experiences
+            </a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a
+              href="#projects"
+              className={activeLink === "#projects" ? styles.active : ""}
+              onClick={() => handleMenuClick("#projects")}
+            >
+              Projects
+            </a>
           </li>
           <li>
-            <a href="#exchange program">Exchange programs</a>
+            <a
+              href="#exchange-program"
+              className={activeLink === "#exchange-program" ? styles.active : ""}
+              onClick={() => handleMenuClick("#exchange-programs")}
+            >
+              Exchange Programs
+            </a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a
+              href="#contact"
+              className={activeLink === "#contact" ? styles.active : ""}
+              onClick={() => handleMenuClick("#contact")}
+            >
+              Contact
+            </a>
           </li>
         </ul>
       </div>

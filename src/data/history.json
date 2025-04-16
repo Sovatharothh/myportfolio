@@ -1,15 +1,15 @@
 [
   {
-    "role": "Developer& Graphic Designer",
+    "role": "Developer & Graphic Designer",
     "organisation": "Center for Digital and Distance Education, MoEYS",
     "startDate": "Jun, 2021",
     "endDate": "Oct, 2024",
     "experiences": [
-      "Uploaded educational content to <a href='https://duraseksa.gov.kh' target='_blank'>duraseksa.gov.kh</a>.",
+      "Restructured and Uploaded educational content to <a href='https://duraseksa.gov.kh' target='_blank'>duraseksa.gov.kh</a>.",
       "Designed posters and organized events/competitions to promote digital and STEM education in Cambodia",
       "Led a video competition project themed Digital Education in Cambodia",
-      "Built an attendance Telegram bot for tracking staff's daily attendence",
-      "Automated and restrutured data for <a href='https://library.duraseksa.gov.kh' target='_blank'>library.duraseksa.gov.kh</a>, an online library initiative.",
+      "Built an attendance Telegram bot for tracking staff's daily attendance",
+      "Automated and restructured data for <a href='https://library.duraseksa.gov.kh' target='_blank'>library.duraseksa.gov.kh</a>, an online library initiative.",
       "Supported intern teams with UX/UI design for their projects.",
       "Supported other departments in automating tasks."
     ],
@@ -17,13 +17,13 @@
     "link": "https://www.facebook.com/cdde.org"
   },
   {
-    "role": "Backend Dev& Graphic Designer Intern",
+    "role": "Backend Dev & Graphic Designer Intern",
     "organisation": "Polymer Invoice",
     "startDate": "Aug, 2024",
     "endDate": "Dec, 2024",
     "experiences": [
       "Developed an API to extract data from KHQR codes uploaded by customers.",
-      "Designed promotional posters to raise awareness about financial literacy and Polymer services"
+      "Designed posters to raise awareness about financial literacy and Polymer services"
     ],
     "imageSrc": "history/polymer.png",
     "link": "https://www.polymerinvoice.com/"
@@ -34,10 +34,11 @@
     "startDate": "Jun, 2022",
     "endDate": "Present",
     "experiences": [
-      "Hosted the WiT Web Development Camp (2022), trained 50+ trainees",
-      "Organized the Digital Literacy Online Workshop (2023), raising awareness of technological advancements",
-      "Organized the WIT Data Science Camp (2024) and served as both instructor and mentor to 50+ trainees.",
-      "Organized on-site conference about STEM-related contents and opportunities to various schools in Cambodia, including Phnom Penh and provinces, to more than 1K+ students."
+      "Co-founded a tech initiative to empower Cambodian youth through digital literacy",
+      "Organized the WiT Web Development Camp (2022), training over 50 students",
+      "Organized the Digital Literacy Online Workshop (2023)",
+      "Organized the WiT Data Science Camp (2024), training over 50 students",
+      "Brought STEM onsite-conferences to 1,000+ students across Cambodia"
     ],
     "imageSrc": "history/wit.png",
     "link": "https://www.facebook.com/wanderintech"
