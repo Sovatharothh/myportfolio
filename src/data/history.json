@@ -16,15 +16,15 @@
     "imageSrc": "history/cdde.png",
     "link": "https://www.facebook.com/cdde.org"
   },
-
   {
     "role": "Backend Dev& Graphic Designer Intern",
     "organisation": "Polymer Invoice",
     "startDate": "Aug, 2024",
     "endDate": "Dec, 2024",
     "experiences": [
-      "Developed an API to extract data from KHQR codes uploaded by customers.", 
-      "Designed promotional posters to raise awareness about financial literacy and Polymer services"],
+      "Developed an API to extract data from KHQR codes uploaded by customers.",
+      "Designed promotional posters to raise awareness about financial literacy and Polymer services"
+    ],
     "imageSrc": "history/polymer.png",
     "link": "https://www.polymerinvoice.com/"
   },
@@ -34,18 +34,10 @@
     "startDate": "Jun, 2022",
     "endDate": "Present",
     "experiences": [
-<<<<<<< HEAD
-      "Co-founded a tech initiative to empower Cambodian youth through digital literacy",
-      "Organized the WiT Web Development Camp (2022), training over 50 students",
-      "Organized the Digital Literacy Online Workshop (2023)",
-      "Organized the WiT Data Science Camp (2024), training over 50 students ",
-      "Brought STEM onsite-conferences to 1,000+ students across Cambodia"
-=======
       "Hosted the WiT Web Development Camp (2022), trained 50+ trainees",
       "Organized the Digital Literacy Online Workshop (2023), raising awareness of technological advancements",
       "Organized the WIT Data Science Camp (2024) and served as both instructor and mentor to 50+ trainees.",
       "Organized on-site conference about STEM-related contents and opportunities to various schools in Cambodia, including Phnom Penh and provinces, to more than 1K+ students."
->>>>>>> 51e6d07ae19e0003cbb81cc4823d2b46521e8068
     ],
     "imageSrc": "history/wit.png",
     "link": "https://www.facebook.com/wanderintech"
