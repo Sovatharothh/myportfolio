@@ -110,6 +110,17 @@
   margin-left: 17px;
 }
 
+.historyItemDetails a {
+  color: #fafafa; 
+  font-size: 1rem;
+  text-decoration: underline; 
+  transition: color 0.3s ease;
+}
+
+.historyItemDetails a:hover {
+  color: wheat; 
+}
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;

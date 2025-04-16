@@ -12,10 +12,9 @@ export const Roth = () => {
           <b className={styles.highlight}>ROTH TT</b>
         </h1>
 
-        <h2>Backend dev | Data Scientist | ICT@AUPP</h2>
+        <h2>Backend Developer | Aspiring Data Scientist | ICT Graduate@AUPP</h2>
         <p className={styles.description}>
-          I am a newbie Backend developer and Data Scientist.I am passionate about learning new technologies and building cool projects.
-          I also enjoy doing web scraping and analyzing data for fun TT.
+        I am a passionate backend developer and data enthusiast. I love learning new technologies, building exciting projects, and diving into data analysis and web scraping just for fun TT
         </p>
         <div className={styles.socialLinks}>
           <a href="https://t.me/Rothhel" target="_blank" rel="noopener noreferrer" className={styles.iconLink}>

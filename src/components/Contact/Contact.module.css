@@ -20,6 +20,13 @@
 
 }
 
+.contactContent {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 0px
+
+}
+
 .socialLinks {
     display: flex;
     justify-content: center;

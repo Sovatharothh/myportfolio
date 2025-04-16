@@ -9,6 +9,10 @@ export const Contact = () => {
       <div className={styles.Contacttitle}>
         <h2>Contact Me:</h2>
       </div>
+      <div className={styles.contactContent}>
+      <p>Feel free to reach out for any inquiries or collaborations!</p>
+
+      </div>
 
        <div className={styles.socialLinks}>
           <a href="https://t.me/Rothhel" target="_blank" rel="noopener noreferrer" className={styles.iconLink}>

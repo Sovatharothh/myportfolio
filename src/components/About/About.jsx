@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Data Science</h3>
               <p>
-              I have experience in applying Machine Learning, Data Analysis, Visualization, and Predictive Modeling to extract insights and build data-driven solutions using Python, Pandas, NumPy, Scikit-learn, and Matplotlib.</p>
+              I apply machine learning, data analysis, visualization, and predictive modeling to solve real-world problems. My tools of choice include Python, Pandas, NumPy, Scikit-learn, and Matplotlib.              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -27,8 +27,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-              I have experiences in developing fast and optimised back-end systems
-              and APIs by using NodeJS and FastAPI.
+              I develop fast, scalable backend systems and APIs using Node.js and FastAPI.
               </p>
             </div>
           </li>
@@ -37,8 +36,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Development</h3>
               <p>
-                I have experiences in building responsive
-                and optimized sites by using ReactJS.
+              I build responsive and performant user interfaces using HTML, CSS, JavaScript, and React.js.
               </p>
             </div>
           </li>
@@ -47,7 +45,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Design</h3>
               <p>
-                I have designed multiple landing pages and developed scalable design systems for consistent user experiences.
+              I design clean and modern interfaces, and create scalable design systems to ensure consistent user experiences.
               </p>
             </div>
           </li>
