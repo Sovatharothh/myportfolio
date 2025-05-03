@@ -1,64 +1,58 @@
 [
     {
-        "title": "ASEAN-Japan Gen Z Business Leaders’ Summit 2023",
-        "location": "Karuizawa & Tokyo, Japan",
-        "startDate": "10,Dec, 2023",
-        "endDate": "16, Dec, 2023",
-        "description": [
-            "Chosen as one of three Cambodian delegates to commemorate the 50th Year of ASEAN-Japan Friendship and Cooperation.", 
-            "Collaborated with an international group from ASEAN-Japan to formulate a Report of Policy Proposal on the theme of Education to submitted to the Japanese Prime Minister ",
-            "Honored as the Cambodia representative for a Courtesy Call to the Japanese Prime Minister."
-        ],
-        "imageSrc": "Japan/1.jpg"
-    },
-
-    {
-        "title": "Asian Undergraduate Symposium 2023",
-        "location": "National University of Singapore",
-        "startDate": "9, Jul, 2023",
-        "endDate": "22, Jul, 2023",
-        "description": [
-            "Selected as one of 21 delegates from Cambodia to collaborate on the theme 'Interconnected Communities.'", 
-            "Worked with a diverse ASEAN group to develop a social impact project."
-        ],
-        "imageSrc": "AUS/1.jpg"
-        
-    },
-
-    {
-        "title": "YSEALI Regional Workshop: Marine Warriors",
-        "location": "Nha Trang, Vietnam",
-        "startDate": "1, Dec, 2022",
-        "endDate": "6, Dec, 2022",
-        "description": [
-            "Selected as one of 8 delegates from Cambodia to attend the regional workshop on 'Marine Warriors'",
-            "Addressed critical environmental issues related to ocean and coastal pollution through the inspiration of gaming/gamification for social good. "
-        ],
-        "imageSrc": "YSEALI/1.jpg"
-        
-    },
-
-    {
-        "title": "ASEAN Study Visit, Hanns Seidel Foundation",
-        "location": "Bangkok Thailand ,& Manila Philippines",
-        "startDate": "6, Nov, 2022",
-        "endDate": "16, Nov, 2022",
-        "description": [
-            "Chosen as one of 21 delegates from ASEAN countries, identifying drivers for youth participationin climate change governance.", 
-            "Co-wrote the ASEAN Youth Report on Youth Participation in Climate Change Governance"
-        ],
-        "imageSrc": "ASEAN Study Visit/1.jpg"
-        
+      "title": "ASEAN-Japan Gen Z Business Leaders’ Summit 2023",
+      "location": "Karuizawa & Tokyo, Japan",
+      "startDate": "10, Dec, 2023",
+      "endDate": "16, Dec, 2023",
+      "description": [
+        "Chosen as one of three Cambodian delegates to commemorate the 50th Year of ASEAN-Japan Friendship and Cooperation.",
+        "Collaborated with an international group from ASEAN-Japan to formulate a Report of Policy Proposal on the theme of Education to submitted to the Japanese Prime Minister",
+        "Honored as the Cambodia representative for a Courtesy Call to the Japanese Prime Minister."
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/japan.jpg"
     },
     {
-        "title": "Seminar on the Prevention and Control of Environmental Pollution for Developing Countries ",
-        "location": "Chengdu, Sichuan, China",
-        "startDate": "7, Aug, 2024",
-        "endDate": "20, Aug, 2024",
-        "description": [
-            "Completely participated in the Seminar on the Prevention and Control of Environmental Pollution for Developing Countries sponsored by the Ministry of Commerce, P.R. China, and organized by Biogas Institute of Ministry of Agriculture and Rural Affairs, P.R China"
-        ],
-        "imageSrc": "China/1.jpg"
-        
+      "title": "Asian Undergraduate Symposium 2023",
+      "location": "National University of Singapore",
+      "startDate": "9, Jul, 2023",
+      "endDate": "22, Jul, 2023",
+      "description": [
+        "Selected as one of 21 delegates from Cambodia to collaborate on the theme 'Interconnected Communities.'",
+        "Worked with a diverse ASEAN group to develop a social impact project."
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/aus.jpg"
+    },
+    {
+      "title": "YSEALI Regional Workshop: Marine Warriors",
+      "location": "Nha Trang, Vietnam",
+      "startDate": "1, Dec, 2022",
+      "endDate": "6, Dec, 2022",
+      "description": [
+        "Selected as one of 8 delegates from Cambodia to attend the regional workshop on 'Marine Warriors'",
+        "Addressed critical environmental issues related to ocean and coastal pollution through the inspiration of gaming/gamification for social good."
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/yseali.jpg"
+    },
+    {
+      "title": "ASEAN Study Visit, Hanns Seidel Foundation",
+      "location": "Bangkok Thailand ,& Manila Philippines",
+      "startDate": "6, Nov, 2022",
+      "endDate": "16, Nov, 2022",
+      "description": [
+        "Chosen as one of 21 delegates from ASEAN countries, identifying drivers for youth participation in climate change governance.",
+        "Co-wrote the ASEAN Youth Report on Youth Participation in Climate Change Governance"
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/studyvist.jpg"
+    },
+    {
+      "title": "Seminar on the Prevention and Control of Environmental Pollution for Developing Countries",
+      "location": "Chengdu, Sichuan, China",
+      "startDate": "7, Aug, 2024",
+      "endDate": "20, Aug, 2024",
+      "description": [
+        "Completely participated in the Seminar on the Prevention and Control of Environmental Pollution for Developing Countries sponsored by the Ministry of Commerce, P.R. China, and organized by Biogas Institute of Ministry of Agriculture and Rural Affairs, P.R China"
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/china.jpg"
     }
-]
+  ]
+  

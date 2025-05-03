@@ -1,35 +1,31 @@
 [
   {
     "title": "Loan Approval Prediction",
-    "imageSrc": "Project/loan.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/loan.png",
     "description": "Built a model to assist banks in making informed loan decisions.",
     "skills": ["LR", "Decision Tree", "Random Forest", "KNN"],
     "source": "https://github.com/Sovatharothh/LoanApprovalPrediction.git",
     "demo": "https://github.com/Sovatharothh/LoanApprovalPrediction.git"
   },
-
   {
     "title": "Streamlit Chatbot Analytics",
-    "imageSrc": "Project/streamlit.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/streamlit.png",
     "description": "An interactive chatbot built to visualize user conversations and extract data insights",
     "skills": ["Python", "Streamlit", "PandaAI"],
     "source": "https://github.com/Sovatharothh/Streamlit-Chatbot-Analytics.git",
     "demo": "https://auppsearchchatbot.streamlit.app/"
   },
-
   {
     "title": "Customer Segementation",
-    "imageSrc": "Project/customer.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/customer.png",
     "description": "This model identifies customer behavior to improve sales and marketing.",
-    "skills": ["Clustering","K-Means"],
+    "skills": ["Clustering", "K-Means"],
     "source": "https://github.com/Sovatharothh/CustomerSegmentation.git",
     "demo": "https://github.com/Sovatharothh/CustomerSegmentation.git"
   },
-
-
   {
     "title": "Streamlit Student Dashboard",
-    "imageSrc": "Project/dashboard.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/dashboard.png",
     "description": "Designed a dashboard for visualizing student performance and academic data across subjects.",
     "skills": ["Streamlit", "Python"],
     "source": "https://github.com/Sovatharothh/StreamlitDashboard.git",
@@ -37,33 +33,26 @@
   },
   {
     "title": "Attendance Telegram Bot",
-    "imageSrc": "Project/bot.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/bot.png",
     "description": "Built Telegram bot to track staff daily attendance.",
     "skills": ["Express", "Node", "Render", "TelegramBot API"],
     "source": "https://github.com/Sovatharothh/Telegram_bot.git",
     "demo": "https://t.me/cdde_attendance_bot"
   },
-
-
   {
     "title": "Roth's Portfolio",
-    "imageSrc": "Project/portfolio.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/portfolio.png",
     "description": "This site you're viewing now — a full personal portfolio showcasing my projects and skills.",
-    "skills": ["React", "Firebase"],
+    "skills": ["React", "Supabase", "Firebase"],
     "source": "https://github.com/Sovatharothh/myportfolio.git",
     "demo": "https://sovatharothel.web.app/"
-
   },
-
   {
     "title": "AUPP Library Chatbot",
-    "imageSrc": "Project/login-page.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/login-page.png",
     "description": "A chatbot platform that allows AUPP students to get instant answers about the university library.",
     "skills": ["React", "HTML", "CSS", "Javascript"],
     "source": "https://github.com/Sovatharothh/library_chatbot.git",
     "demo": "https://github.com/Sovatharothh/library_chatbot.git"
-
-
   }
-
 ]

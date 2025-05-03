@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-
 import styles from "./Navbar.module.css";
-import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -22,15 +20,13 @@ export const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? getImageUrl("nav/closeIcon.png")
-              : getImageUrl("nav/menuIcon.png")
+              ? "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/closeIcon.png"
+              : "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/menuIcon.png"
           }
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         />
-        <ul
-          className={`${styles.menuItems} ${menuOpen ? styles.menuOpen : ""}`}
-        >
+        <ul className={`${styles.menuItems} ${menuOpen ? styles.menuOpen : ""}`}>
           <li>
             <a
               href="#about"
@@ -62,7 +58,7 @@ export const Navbar = () => {
             <a
               href="#exchange-program"
               className={activeLink === "#exchange-program" ? styles.active : ""}
-              onClick={() => handleMenuClick("#exchange-programs")}
+              onClick={() => handleMenuClick("#exchange-program")}
             >
               Exchange Programs
             </a>

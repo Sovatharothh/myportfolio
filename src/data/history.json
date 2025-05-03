@@ -13,7 +13,7 @@
       "Supported intern teams with UX/UI design for their projects.",
       "Supported other departments in automating tasks."
     ],
-    "imageSrc": "history/cdde.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/cdde.png",
     "link": "https://www.facebook.com/cdde.org"
   },
   {
@@ -25,7 +25,7 @@
       "Developed an API to extract data from KHQR codes uploaded by customers.",
       "Designed posters to raise awareness about financial literacy and Polymer services"
     ],
-    "imageSrc": "history/polymer.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/polymer.png",
     "link": "https://www.polymerinvoice.com/"
   },
   {
@@ -40,7 +40,7 @@
       "Organized the WiT Data Science Camp (2024), training over 50 students",
       "Brought STEM onsite-conferences to 1,000+ students across Cambodia"
     ],
-    "imageSrc": "history/wit.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/wit.png",
     "link": "https://www.facebook.com/wanderintech"
   }
 ]

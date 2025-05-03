@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
-import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, source, demo },
@@ -8,7 +7,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={getImageUrl(imageSrc)}
+        src={imageSrc}
         alt={`Image of ${title}`}
         className={styles.image}
       />
@@ -32,16 +31,3 @@ export const ProjectCard = ({
     </div>
   );
 };
-
-// Parent Component to render multiple cards
-const ProjectCardList = ({ projects }) => {
-  return (
-    <div className="card-container">
-      {projects.map((project, index) => (
-        <ProjectCard key={index} project={project} />
-      ))}
-    </div>
-  );
-};
-
-export default ProjectCardList;
