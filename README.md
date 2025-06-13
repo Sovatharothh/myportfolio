@@ -29,13 +29,7 @@ Follow these steps to set up the project locally:
     npm install
    ```
 
-3. Install dependencies:
-
-   ```bash
-    npm install
-   ```
-
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
