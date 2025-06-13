@@ -44,7 +44,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Development</h3>
               <p>
-                I build responsive and performant user interfaces using HTML, CSS, JavaScript, and React.js.
+                I build responsive and performant user interfaces using HTML, CSS, JavaScript, and ReactJS.
               </p>
             </div>
           </li>

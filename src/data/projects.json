@@ -16,7 +16,7 @@
     "demo": "https://auppsearchchatbot.streamlit.app/"
   },
   {
-    "title": "Customer Segementation",
+    "title": "Customer Segmentation",
     "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/customer.png",
     "description": "This model identifies customer behavior to improve sales and marketing.",
     "skills": ["Clustering", "K-Means"],
