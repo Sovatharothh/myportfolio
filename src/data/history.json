@@ -1,7 +1,7 @@
 [
   {
     "role": "Developer & Graphic Designer",
-    "organisation": "Center for Digital and Distance Education, MoEYS",
+    "organisation": "Center for Digital and Distance Education of Ministry of Education, Youth and Sport",
     "startDate": "Jun, 2021",
     "endDate": "Oct, 2024",
     "experiences": [
@@ -13,7 +13,7 @@
       "Supported intern teams with UX/UI design for their projects.",
       "Supported other departments in automating tasks."
     ],
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/cdde.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//cdde-logo.png",
     "link": "https://www.facebook.com/cdde.org"
   },
   {
@@ -25,7 +25,7 @@
       "Developed an API to extract data from KHQR codes uploaded by customers.",
       "Designed posters to raise awareness about financial literacy and Polymer services"
     ],
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/polymer.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//polymer-logo.png",
     "link": "https://www.polymerinvoice.com/"
   },
   {
@@ -40,7 +40,7 @@
       "Organized the WiT Data Science Camp (2024), training over 50 students",
       "Brought STEM onsite-conferences to 1,000+ students across Cambodia"
     ],
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/wit.png",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//wit-logo.png",
     "link": "https://www.facebook.com/wanderintech"
   }
 ]

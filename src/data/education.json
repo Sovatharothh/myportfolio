@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "school": "American University of Phnom Penh",
+    "degree": "Bachelor of Science in Information and Communications Technology",
+    "location": "Phnom Penh, Cambodia",
+    "period": "May 2022 – May 2025",
+    "description": "Specialized in Management Information Systems with a solid foundation in data analytics, cloud computing, software development, and machine learning. Gained practical, hands-on experience through diverse projects in artificial intelligence, web development, and business intelligence.",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//AUPP_Logo.png",
+    "link": "https://www.aupp.edu.kh/"
+
+  },
+  { 
+    "id": 2,
+    "school": "Proseth Institute",
+    "degree": "Short Course in Introduction to Networking (CCNA1)",
+    "location": "Phnom Penh, Cambodia",
+    "period": "May 2023 – Aug 2023",
+    "description": "Completed foundational training in networking based on the Cisco CCNA1 curriculum. Covered key topics including network architecture, IP addressing, routing protocols, infrastructure services, and basic network security.",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//proseth101.png",
+    "link": "https://proseth.institute/"
+  },
+  {
+    "id": 3,
+    "school": "TUX Global Institute",
+    "degree": "Associate Degree in App/Web Development",
+    "location": "Phnom Penh, Cambodia",
+    "period": "Sep 2021 – Sep 2022",
+    "description": "Gained hands-on experience in web development technologies, mobile app development, and UI/UX design principles.",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//tux-logo.png",
+    "link": "https://www.tuxglobalinstitute.edu.kh/"
+  }
+]

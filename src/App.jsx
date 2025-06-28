@@ -2,6 +2,7 @@ import styles from './App.module.css'
 import { Navbar } from './components/navbar/navbar'
 import {Roth} from './components/Roth/Roth'
 import { About } from './components/About/About'
+import { Education } from './components/Education/Education'                    
 import { Experience } from './components/Experience/Experience'
 import {Project} from './components/Project/Project'
 import { ExchangeProgram} from './components/ExchangeProgram/ExchangeProgram'
@@ -15,6 +16,7 @@ function App() {
       <Navbar/>
       <Roth/>
       <About/>
+      <Education/>
       <Experience/>
       <Project/>
       <ExchangeProgram/>

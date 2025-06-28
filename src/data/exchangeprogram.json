@@ -1,4 +1,14 @@
 [
+      {
+      "title": "Seminar on the Prevention and Control of Environmental Pollution for Developing Countries",
+      "location": "Chengdu, Sichuan, China",
+      "startDate": "7, Aug, 2024",
+      "endDate": "20, Aug, 2024",
+      "description": [
+        "Completely participated in the Seminar on the Prevention and Control of Environmental Pollution for Developing Countries sponsored by the Ministry of Commerce, P.R. China, and organized by Biogas Institute of Ministry of Agriculture and Rural Affairs, P.R China"
+      ],
+      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/china.jpg"
+    },
     {
       "title": "ASEAN-Japan Gen Z Business Leaders’ Summit 2023",
       "location": "Karuizawa & Tokyo, Japan",
@@ -43,16 +53,6 @@
         "Co-wrote the ASEAN Youth Report on Youth Participation in Climate Change Governance"
       ],
       "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/studyvist.jpg"
-    },
-    {
-      "title": "Seminar on the Prevention and Control of Environmental Pollution for Developing Countries",
-      "location": "Chengdu, Sichuan, China",
-      "startDate": "7, Aug, 2024",
-      "endDate": "20, Aug, 2024",
-      "description": [
-        "Completely participated in the Seminar on the Prevention and Control of Environmental Pollution for Developing Countries sponsored by the Ministry of Commerce, P.R. China, and organized by Biogas Institute of Ministry of Agriculture and Rural Affairs, P.R China"
-      ],
-      "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/china.jpg"
     }
   ]
   

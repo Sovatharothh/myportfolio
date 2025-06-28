@@ -1,19 +1,11 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/html.png"
+    "title": "Python",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/python.png"
   },
-  {
-    "title": "CSS",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/css.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/react.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/node.png"
+    {
+    "title": "MySQL",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//mysqlworkbench.webp"
   },
   {
     "title": "PostgreSQL",
@@ -24,16 +16,28 @@
     "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/mongodb.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/python.png"
+    "title": "PowerBI",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/powerbi.png"
+  },
+  {
+    "title": "Streamlit",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//streamlit-logo.png"
   },
   {
     "title": "JavaScript",
     "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/JS.webp"
   },
   {
-    "title": "PowerBI",
-    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/powerbi.png"
+    "title": "Node",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/node.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/css.png"
   },
   {
     "title": "Figma",

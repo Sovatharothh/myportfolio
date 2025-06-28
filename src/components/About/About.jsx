@@ -7,7 +7,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/profile.png"
+          src="https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets//profile.png"
           alt="Roth"
           className={styles.aboutImage}
         />
@@ -36,7 +36,7 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <img
               src="https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/frontend.png"
               alt="frontend icon"
@@ -47,7 +47,7 @@ export const About = () => {
                 I build responsive and performant user interfaces using HTML, CSS, JavaScript, and ReactJS.
               </p>
             </div>
-          </li>
+          </li> */}
           <li className={styles.aboutItem}>
             <img
               src="https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/ui.png"

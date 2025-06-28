@@ -38,6 +38,17 @@ export const Navbar = () => {
           </li>
           <li>
             <a
+              href="#education"
+              className={activeLink === "#education" ? styles.active : ""}
+              onClick={() => handleMenuClick("#education")}
+            >
+              Education
+            </a>
+          </li>          
+
+
+          <li>
+            <a
               href="#experience"
               className={activeLink === "#experience" ? styles.active : ""}
               onClick={() => handleMenuClick("#experience")}
