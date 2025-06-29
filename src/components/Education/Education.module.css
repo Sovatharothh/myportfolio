@@ -35,6 +35,11 @@
   overflow: hidden;
 }
 
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.5);
+}
+
 .bar {
   height: 8px;
   background-color: #f47b62;
