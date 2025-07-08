@@ -28,7 +28,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  margin-right:90px;
+  margin-right: 90px;
 }
 
 .skill {
@@ -67,14 +67,13 @@
 
 .historyItem {
   display: flex;
-  flex-direction: row;
-  gap: 20px;
+  flex-direction: column;
+  gap: 10px;
   border-radius: 8px;
   padding: 20px;
-  align-items: flex-start; 
-  background-color:#ee6c4d;
-  transition: background-color 0.4s ease; 
+  background-color: #ee6c4d;
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
 }
 
 .historyItem:hover {
@@ -82,24 +81,50 @@
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.5);
 }
 
+.historyItemTop {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
 
 .historyItem img {
-  width: 100px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.historyItemHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+}
+
+.historyItemHeader h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0;
+  color: white;
+}
+
+.historyItemHeader h4 {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0;
+  color: white;
+}
+
+.historyItemHeader p {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #f0f0f0;
+  margin: 0;
 }
 
 .historyItemDetails {
   font-family: var(--font-roboto);
-}
-
-.historyItemDetails h3 h4{
-  font-size: 1.2rem;
-  font-weight: 500;
-}
-
-.historyItemDetails p {
-  font-size: 0.9rem;
-  font-style: italic;
-  font-weight: 300;
 }
 
 .historyItemDetails ul {
@@ -108,22 +133,29 @@
   font-size: 0.9rem;
   list-style-type: disc;
   margin-left: 17px;
+  color: white;
+  line-height: 1.6;
+}
+
+.historyItemDetails li::marker {
+  color: white;
 }
 
 .historyItemDetails a {
-  color: #fafafa; 
+  color: #fafafa;
   font-size: 1rem;
-  text-decoration: underline; 
+  text-decoration: underline;
   transition: color 0.3s ease;
 }
 
 .historyItemDetails a:hover {
-  color: wheat; 
+  color: wheat;
 }
 
+/* Responsive Design */
 @media screen and (max-width: 830px) {
   .content {
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     gap: 50px;
   }
@@ -132,10 +164,28 @@
     width: 100%;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 80px;
+  }
+
+  .skillImageContainer {
+    width: 60px;
+    height: 60px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .history {
     width: 100%;
-    gap: 9px;
+    gap: 20px;
   }
+  .historyItemHeader h3 {
+  font-size: 1.1rem;
+}
+
+.historyItemHeader h4 {
+  font-size: 0.9rem;
+}
 }

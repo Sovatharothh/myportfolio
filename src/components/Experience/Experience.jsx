@@ -23,9 +23,9 @@ export const Experience = () => {
         </div>
 
         <ul className={styles.history}>
-          {history.map((historyItem, id) => {
-            return (
-              <li key={id} className={styles.historyItem}>
+          {history.map((historyItem, id) => (
+            <li key={id} className={styles.historyItem}>
+              <div className={styles.historyItemTop}>
                 <a
                   href={historyItem.link}
                   target="_blank"
@@ -36,23 +36,25 @@ export const Experience = () => {
                     alt={`${historyItem.organisation} Logo`}
                   />
                 </a>
-                <div className={styles.historyItemDetails}>
-                  {/* <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3> */}
+                <div className={styles.historyItemHeader}>
                   <h3>{historyItem.role}</h3>
                   <h4>{historyItem.organisation}</h4>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
-                  <ul>
-                    {historyItem.experiences.map((experience, idx) => (
-                      <li
-                        key={idx}
-                        dangerouslySetInnerHTML={{ __html: experience }}
-                      />
-                    ))}
-                  </ul>
                 </div>
-              </li>
-            );
-          })}
+              </div>
+
+              <div className={styles.historyItemDetails}>
+                <ul>
+                  {historyItem.experiences.map((experience, idx) => (
+                    <li
+                      key={idx}
+                      dangerouslySetInnerHTML={{ __html: experience }}
+                    />
+                  ))}
+                </ul>
+              </div>
+            </li>
+          ))}
         </ul>
       </div>
     </section>
