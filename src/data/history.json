@@ -1,5 +1,19 @@
 [
   {
+    "role": "Data Analyst",
+    "organisation": "Financial Management Information System, Ministry of Economy and Finance",
+    "startDate": "Aug, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Contribute to validate and analyze financial data to ensure accuracy, consistency, and compliance with user requirements.",
+      "Extracte and prepare operational and financial datasets from government institutions for analysis and reporting.",
+      "Design and build an interactive Dashboard to support the team in data-driven decision-making."
+    ],
+    "imageSrc": "https://deizhycgdcbjnpwmrxnp.supabase.co/storage/v1/object/public/portfolio-assets/fmis-logo.png",
+    "link": "https://fmis.gov.kh"
+  },
+
+  {
     "role": "Developer & Graphic Designer",
     "organisation": "Center for Digital and Distance Education of Ministry of Education, Youth and Sport",
     "startDate": "Jun, 2021",

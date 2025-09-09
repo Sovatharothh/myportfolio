@@ -6,7 +6,6 @@ export const Roth = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>
-          <p>Hi, This is</p>
           <b className={styles.highlight}>ROTH TT</b>
         </h1>
 
